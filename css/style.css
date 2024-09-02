@@ -18505,4 +18505,16 @@ img {
   }
 
   .container-timeline ul li::before {
-    left: 0
+    left: 0;
+    top: 0;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+
+
+  }
+}
+
+.justify {
+  text-align: justify;
+}
