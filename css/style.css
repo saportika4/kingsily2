@@ -4795,7 +4795,7 @@ span.teaser {
 .wm {
   width:1920px;
   color: transparent;
-  -webkit-text-stroke: 1px #ffbd92;
+  -webkit-text-stroke: 1px #ffffff;
   font-size: 300px;
   position: absolute;
   left: 0;
@@ -12022,11 +12022,11 @@ body.dark-scheme::-webkit-scrollbar-track,
 }
 
 .de-icon {
-  width: 80px;
+  width: 50px;
   text-align: center;
-  font-size: 40px;
+  font-size: 20px;
   background: rgba(85, 85, 85, .2);
-  padding: 20px 0;
+  padding: 12px 0;
 }
 
 .de-icon-image {
