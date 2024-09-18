@@ -18549,3 +18549,18 @@ img {
   }
 
 }
+
+.img-resp{
+  min-height: 500px;
+  max-height: 500px;
+  object-fit: cover;
+}
+
+@media(max-width:800px) {
+  .img-resp{
+    min-height: 305px;
+    max-height: 305px;
+    object-fit: cover;
+  }
+
+}
